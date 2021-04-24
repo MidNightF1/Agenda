@@ -1,0 +1,13 @@
+Ciao!
+Grazie per aver scaricato quest'agenda!
+Lo scopo di quest agenda e di annotare i tuoi impegni e rileggerli per te quando ne hai bisogno.
+Per iniziare ad appuntare qualche impegno scegliere l'optione "annota impegni" e li avrai 2 optioni "crea" e "modifica"
+
+"crea" crea un nuovo gruppo di impegni a cui si puo assegnare un giorno e poi si possono aggiungere i vari impegni assegnando un orario
+"modifica" va soltanto ad aggiungere orari ad un gruppo di impegni gia creato.
+
+Per leggere gli impegni creati ci sono due modi
+1. all'inizio del programma scegliere "Leggi impegni" e poi scrivere il titolo del gruppo di impegni scelto durante la creazione. (metodo consigliato)
+2. andare nella cartella Agenda e aprire il file.txt desiderato
+
+Questo e tutto spero che quest'agenda sia gradita :)
