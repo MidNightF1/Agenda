@@ -2,18 +2,23 @@ Ciao!
 Grazie per aver scaricato quest'agenda!
 Lo scopo di quest agenda e di annotare i tuoi impegni e rileggerli per te quando ne hai bisogno.
 
+
 Il tema di questo contest era di realizzare qualcosa che sia utile alla vita di tutti giorni, e quindi che dia una mano a noi umani con le nostre faccende,
-quindi ho pensato che un agenda per appuntare i vari inpegni che una persona puo avere nel corso della sua settimana possa essere piuttosto utile,
+quindi ho pensato che una agenda per appuntare i vari Impegni che una persona può avere nel corso della sua settimana possa essere piuttosto utile,
 e quindi ho fatto del mio meglio a scrivere quest'agenda in queste poche linee di codice che mi sono state concesse,
 ovviamente dato questo limite non ho potuto fare cose molto complesse però fa il suo dovere, e questo e l'importante.
 
-Per iniziare ad appuntare qualche impegno scegliere l'optione "annota impegni" e li avrai 2 optioni "crea" e "modifica"
 
-"crea" crea un nuovo gruppo di impegni a cui si puo assegnare un giorno e poi si possono aggiungere i vari impegni assegnando un orario
-"modifica" va soltanto ad aggiungere orari ad un gruppo di impegni gia creato.
+Per iniziare ad appuntare qualche impegno scegliere l'opzione "annota impegni" e li avrai 2 opzioni "crea" e "modifica"
+
+
+"Crea" crea un nuovo gruppo d'impegni a cui si può assegnare un giorno e poi si possono aggiungere i vari impegni assegnando un orario
+"Modifica" va soltanto ad aggiungere orari a un gruppo d'impegni già creato.
+
 
 Per leggere gli impegni creati ci sono due modi
 1. all'inizio del programma scegliere "Leggi impegni" e poi scrivere il titolo del gruppo di impegni scelto durante la creazione. (metodo consigliato)
 2. andare nella cartella Agenda e aprire il file.txt desiderato
+
 
 Questo e tutto spero che quest'agenda sia gradita :)
