@@ -18,7 +18,7 @@ def LeggiImpegni(t):
     f = open(path + t + ".txt", "r")
     contenuto = f.read()
     print(Style.RESET_ALL + contenuto)
-print(Fore.RED + "Grazie per aver scaricato Agenda 1.0!\nQuest'agenda si occupa di salvare i tuoi impegni e leggergli per te!\nPerche non fai una prova?" + Style.RESET_ALL)
+print(Fore.RED + "Grazie per aver scaricato Agenda 1.0!\nQuest'agenda si occupa di salvare i tuoi impegni e leggergli per te!\nPerche non fai una prova?\nPer vedere una piccola descrizione del programma scrivi \"Leggi impegni\" e al titolo scrivi \"Leggimi\"" + Style.RESET_ALL)
 while True:
     print(Fore.CYAN + "\nCosa vuoi fare?\n" + Fore.GREEN +"[Leggi impegni] [Annota impegni] [Esci]\n" + Fore.LIGHTMAGENTA_EX)
     operazione = input()
