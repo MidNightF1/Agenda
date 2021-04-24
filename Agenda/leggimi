@@ -1,6 +1,12 @@
 Ciao!
 Grazie per aver scaricato quest'agenda!
 Lo scopo di quest agenda e di annotare i tuoi impegni e rileggerli per te quando ne hai bisogno.
+
+Il tema di questo contest era di realizzare qualcosa che sia utile alla vita di tutti giorni, e quindi che dia una mano a noi umani con le nostre faccende,
+quindi ho pensato che un agenda per appuntare i vari inpegni che una persona puo avere nel corso della sua settimana possa essere piuttosto utile,
+e quindi ho fatto del mio meglio a scrivere quest'agenda in queste poche linee di codice che mi sono state concesse,
+ovviamente dato questo limite non ho potuto fare cose molto complesse però fa il suo dovere, e questo e l'importante.
+
 Per iniziare ad appuntare qualche impegno scegliere l'optione "annota impegni" e li avrai 2 optioni "crea" e "modifica"
 
 "crea" crea un nuovo gruppo di impegni a cui si puo assegnare un giorno e poi si possono aggiungere i vari impegni assegnando un orario
